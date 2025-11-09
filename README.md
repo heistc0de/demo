@@ -1,2 +1,3 @@
 # demo
-this is my frist git repositoy
+this is my frist git repositroy
+Author-Rahul yadav
